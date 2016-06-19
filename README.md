@@ -1,2 +1,2 @@
 # angular2-samples
-Source code for blog javatab.wordpress.com
+Source code for blog http://javatab.wordpress.com
